@@ -4,6 +4,7 @@ title: Установка cloud-init в ОС на linux на примере CROC
 ---
 
 ![image](https://user-images.githubusercontent.com/2937856/152644189-8fab57fd-ff29-48b8-84e5-f7ee4af4f2c0.png)
+
 Установка cloud-init в Rocky Linux 8.5 на примере CROC cloud
 
 ____
