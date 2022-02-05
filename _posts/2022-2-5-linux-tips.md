@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: Полезное в linux
 ---
 
+![image](https://user-images.githubusercontent.com/2937856/152644246-1d4ebd30-269a-4f51-a04c-3fabebfa071f.png)
 Интересные, важные и полезные моменты моей линуксовой жизни.
 
 ___
